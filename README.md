@@ -1,2 +1,2 @@
-# codecasa_Housing-Price-Prediction
-LEVEL 2 TASK-CODE CASA-MACHINE LEARNING INTERNSHIP-HOUSING PRICE PREDICTION
+# Housing-Price-Prediction
+Housing Price Prediction System using Trained Linear Regression Model.
